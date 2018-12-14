@@ -1,0 +1,19 @@
+baseURL = "https://www.mikicaivosevic.info/"
+theme = "temple"
+languageCode = "en-us"
+title = "Mikica Ivosevic"
+copyright = "(c) 20017 - 2018"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[author]
+  name = "Mikica Ivosevic"
+  github = "mikicaivosevic"
+  twitter = "mikicaivosevic"
+  linkedin = "https://www.linkedin.com/in/mikica-ivosevic-5953346b/"
+
+[params]
+  highlight = true 
+  hjslangs = ["go", "vim", "php", "js"]
+  topmenu = "categories"
